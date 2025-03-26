@@ -37,8 +37,8 @@ This is a web-based e-book reader application built with [Streamlit](https://str
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ebook-reader.git
-   cd ebook-reader
+   git clone https://github.com/jasongilchristp/ebook_reader.git
+   cd ebook_reader
    ```
 
 2. **Install the Required Packages:**
